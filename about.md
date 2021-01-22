@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+A programmer who has entered the Internet industry for three years.
 
 ### More Information
 
